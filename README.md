@@ -1,4 +1,4 @@
-<a href="https://ibb.co.com/PZQ8Tg18"><img src="https://i.ibb.co.com/PZQ8Tg18/Nayan-png.png" alt="Nayan-png" border="0"></a>
+<a align=centre href="https://ibb.co.com/PZQ8Tg18"> <img src="https://i.ibb.co.com/PZQ8Tg18/Nayan-png.png" alt="Nayan-png" border="0"></a>
 
 <h1 align="center">Hi 👋, I'm Nayan Kumer Saha</h1>
 <h3 align="center">A passionate Web designer and developer</h3>
