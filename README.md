@@ -1,7 +1,7 @@
 
 [<div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>](https://ibb.co.com/PZQ8Tg18)
+</div>]
 
 ###
 <h1 align="center">Hi 👋, I'm Nayan Kumer Saha</h1>
