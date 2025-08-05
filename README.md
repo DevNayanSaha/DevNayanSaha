@@ -1,7 +1,7 @@
 
-[<div align="center">
+<div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>]
+</div>
 
 ###
 <h1 align="center">Hi 👋, I'm Nayan Kumer Saha</h1>
