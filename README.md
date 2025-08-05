@@ -1,9 +1,5 @@
 
-<div align="center">
-  <img height="200" src="[(https://ibb.co.com/PZQ8Tg18)"/>   
-</div>
-
-###
+https://ibb.co.com/PZQ8Tg18
 <h1 align="center">Hi 👋, I'm Nayan Kumer Saha</h1>
 <h3 align="center">A passionate Web designer and developer</h3>
 
